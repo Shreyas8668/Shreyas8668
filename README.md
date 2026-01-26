@@ -2,7 +2,7 @@ Hi there 👋 I'm Shreyas
 
 💻 AI & Machine Learning Enthusiast | Python Developer | Data Science Learner
 
-I love building intelligent systems and working on real-world problems using data, machine learning, and deep learning.
+
 <!--
 **Shreyas8668/Shreyas8668** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
